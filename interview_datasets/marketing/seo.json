@@ -1,0 +1,1926 @@
+{
+  "major": "Marketing",
+  "subcategory": "SEO",
+  "questions": [
+    {
+      "id": "marketing-seo-001",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-002",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "marketing-seo-004",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-005",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-006",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "marketing-seo-008",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-009",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-010",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "marketing-seo-011",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-012",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-013",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-015",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-017",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-018",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-019",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-020",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-021",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-022",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-023",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-024",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-025",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-026",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-027",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-029",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-030",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-031",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-032",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-033",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-034",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-035",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-036",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-037",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-038",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-039",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-040",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What are the key on-page factors you focus on to improve SEO?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-042",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you approach improving organic traffic for a low-performing landing page?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-043",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-044",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-045",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-046",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-047",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-048",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-049",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-050",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-051",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-052",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-053",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-054",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you approach improving organic traffic for a low-performing landing page?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-055",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-056",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-057",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-058",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-059",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-060",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-061",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-062",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-063",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-064",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-065",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-066",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-067",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-068",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-069",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "marketing-seo-070",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-071",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-072",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-073",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-074",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "marketing-seo-075",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-076",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-077",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-078",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-079",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-080",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-081",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-082",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-083",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-084",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What are the key on-page factors you focus on to improve SEO?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-085",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-086",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-087",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-088",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-089",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-090",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-091",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-092",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-093",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-094",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What are the key on-page factors you focus on to improve SEO?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-095",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "marketing-seo-096",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-097",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "marketing-seo-098",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-099",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "marketing-seo-100",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-101",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-102",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-103",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-104",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-105",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-106",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-107",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-108",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-109",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-110",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-111",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "marketing-seo-112",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-113",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-114",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "How would you approach improving organic traffic for a low-performing landing page?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-115",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "marketing-seo-116",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "marketing-seo-117",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "marketing-seo-118",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "marketing-seo-119",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "marketing-seo-120",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "marketing",
+        "seo",
+        "search"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1806 @@
+{
+  "major": "Software",
+  "subcategory": "Full Stack",
+  "questions": [
+    {
+      "id": "software-fullstack-001",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-002",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-003",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-004",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-005",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-006",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-008",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-009",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-010",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-011",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-012",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-013",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-015",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-018",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-019",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-021",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-022",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-023",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-024",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-025",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-026",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-027",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-028",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-029",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-030",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-031",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-033",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-034",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-035",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-036",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-037",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-038",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-039",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-040",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-041",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Can you describe an end-to-end feature you built, from backend to frontend?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-042",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you ensure secure communication between your frontend and backend?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-043",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you design an API that is easy for frontend developers to consume?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-044",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What strategies do you use to keep frontend and backend in sync during development?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-045",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-046",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you design an API that is easy for frontend developers to consume?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-047",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-048",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-049",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-050",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-051",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-052",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Can you describe an end-to-end feature you built, from backend to frontend?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-053",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-054",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-055",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-056",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-057",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-058",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-059",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-060",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-061",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-062",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-063",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-064",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-065",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-066",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-067",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-068",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-069",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-070",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-071",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-072",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-073",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-074",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-075",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you ensure secure communication between your frontend and backend?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-076",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-077",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What strategies do you use to keep frontend and backend in sync during development?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-078",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-079",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-080",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-081",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-082",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-083",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-084",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-085",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-086",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-087",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-088",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-089",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-090",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-091",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-092",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-093",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-094",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-095",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-096",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-097",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-098",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-099",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-100",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-101",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Can you describe an end-to-end feature you built, from backend to frontend?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-102",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-103",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-104",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you design an API that is easy for frontend developers to consume?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-105",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "software-fullstack-106",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-107",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-108",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "software-fullstack-109",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "What strategies do you use to keep frontend and backend in sync during development?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "software-fullstack-110",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "software-fullstack-111",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-112",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-113",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "software-fullstack-114",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-115",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "software-fullstack-116",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "software-fullstack-117",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "software-fullstack-118",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "software-fullstack-119",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "software-fullstack-120",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "software",
+        "fullstack"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    }
+  ]
+}

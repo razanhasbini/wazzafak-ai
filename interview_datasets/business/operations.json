@@ -1,0 +1,2046 @@
+{
+  "major": "Business",
+  "subcategory": "Operations",
+  "questions": [
+    {
+      "id": "business-operations-001",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-002",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-003",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-004",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-005",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-006",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-008",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-009",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-010",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-011",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-012",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-013",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-015",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-018",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-019",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-020",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-021",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-022",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-023",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-024",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-025",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-026",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-029",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-030",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-031",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-032",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-033",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-034",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-035",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-036",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-037",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-038",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-039",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-040",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-041",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How would you identify bottlenecks in an existing process?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-042",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you approach improving efficiency without sacrificing quality?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-043",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-044",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-045",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-046",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-047",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-048",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-049",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-050",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-051",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-052",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-053",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-054",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How would you identify bottlenecks in an existing process?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-055",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-056",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-057",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-058",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-059",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-060",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How do you approach improving efficiency without sacrificing quality?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-061",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-062",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-063",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-064",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-065",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-066",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-067",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-068",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-069",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-070",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-071",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-072",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-073",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-074",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-075",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-076",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-077",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-078",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-079",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-080",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-081",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-082",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-083",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-084",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-085",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-086",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-087",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-088",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you approach improving efficiency without sacrificing quality?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-089",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-090",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-091",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-092",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-093",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-094",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-095",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-096",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-097",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-098",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-099",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-100",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-101",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-operations-102",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-103",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-104",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-operations-105",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-106",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-107",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-operations-108",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-109",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-110",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-111",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-112",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-operations-113",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-operations-114",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-115",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-operations-116",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-operations-117",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-operations-118",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-operations-119",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-operations-120",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "operations",
+        "process",
+        "efficiency"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    }
+  ]
+}

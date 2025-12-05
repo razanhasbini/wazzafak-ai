@@ -1,0 +1,1806 @@
+{
+  "major": "Common",
+  "subcategory": "Scenario",
+  "questions": [
+    {
+      "id": "common-scenario-001",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-002",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-004",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-005",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-006",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-007",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-008",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-009",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-010",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-011",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-012",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-013",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-014",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-015",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-016",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-017",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-018",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-019",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-020",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-021",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-022",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-023",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-024",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-025",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-026",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-027",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-028",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-029",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-030",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-031",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-032",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-033",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-034",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-035",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-036",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-037",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-038",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-039",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-040",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-041",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-042",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-043",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-044",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-045",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-046",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-047",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-048",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-049",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-050",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-051",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-052",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-053",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-054",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-055",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-056",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-057",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-058",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-059",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-060",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-061",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-062",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-063",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-064",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-065",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-066",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-067",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-068",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-069",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-070",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-071",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-072",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-073",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-074",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-075",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-076",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-077",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-078",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-079",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-080",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-081",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-082",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-083",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-084",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-085",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-086",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-087",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-088",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-089",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-090",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-091",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-092",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-093",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-094",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-095",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-096",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-097",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-098",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-099",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-100",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-101",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-102",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-103",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-104",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-105",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-106",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-107",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-108",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-109",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-110",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-111",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-112",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-113",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-114",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-scenario-115",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-116",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-117",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-118",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-scenario-119",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-scenario-120",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "scenario",
+        "problem-solving"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    }
+  ]
+}

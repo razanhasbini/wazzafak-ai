@@ -1,0 +1,1926 @@
+{
+  "major": "Mechanical",
+  "subcategory": "Aerospace",
+  "questions": [
+    {
+      "id": "mechanical-aerospace-001",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-002",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-004",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-005",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-006",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-007",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-008",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-009",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-010",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-011",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-012",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-013",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-015",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-017",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-018",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-019",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-020",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-021",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-022",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-023",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-024",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-025",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-026",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-027",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-028",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-029",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-030",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-031",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-033",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-034",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-035",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-036",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-037",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-038",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-039",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-040",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you explain the trade-offs in designing a lightweight yet strong structure?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-042",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you approach analyzing forces on a component in an aerospace system?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-043",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-044",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-045",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-046",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-047",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-048",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-049",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-050",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-051",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-052",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-053",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-054",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-055",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-056",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-057",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-058",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-059",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-060",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-061",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you explain the trade-offs in designing a lightweight yet strong structure?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-062",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-063",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-064",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you approach analyzing forces on a component in an aerospace system?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-065",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-066",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-067",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-068",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-069",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-070",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-071",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-072",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-073",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-074",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-075",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-076",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-077",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-078",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-079",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-080",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-081",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-082",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-083",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-084",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-085",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-086",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-087",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-088",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-089",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-090",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-091",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-092",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-093",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-094",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-095",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-096",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you explain the trade-offs in designing a lightweight yet strong structure?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-097",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-098",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-099",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-100",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-101",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-102",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-103",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-104",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-105",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-106",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you approach analyzing forces on a component in an aerospace system?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-107",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-108",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-109",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-110",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-111",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-112",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-113",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-114",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-115",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-116",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-117",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-118",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-119",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-aerospace-120",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "aerospace",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    }
+  ]
+}

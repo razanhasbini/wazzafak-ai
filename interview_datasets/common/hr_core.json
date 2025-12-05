@@ -1,0 +1,111 @@
+{
+  "major": "Common",
+  "subcategory": "HR Core",
+  "questions": [
+    {
+      "id": "common-hrcore-technical-001",
+      "type": "technical",
+      "question": "What technical skills do you consider essential for success in this role?"
+    },
+    {
+      "id": "common-hrcore-technical-002",
+      "type": "technical",
+      "question": "How do you stay up to date with new tools or practices in your field?"
+    },
+    {
+      "id": "common-hrcore-technical-003",
+      "type": "technical",
+      "question": "Tell me about a time you had to quickly learn a new technical skill."
+    },
+    {
+      "id": "common-hrcore-experience-001",
+      "type": "experience",
+      "question": "Can you walk me through a recent project you worked on and your role in it?"
+    },
+    {
+      "id": "common-hrcore-experience-002",
+      "type": "experience",
+      "question": "Tell me about an experience where you had to collaborate with people from different backgrounds."
+    },
+    {
+      "id": "common-hrcore-experience-003",
+      "type": "experience",
+      "question": "Describe a project that challenged you the most and why."
+    },
+    {
+      "id": "common-hrcore-personality-001",
+      "type": "personality",
+      "question": "How would you describe your working style when you join a new team?"
+    },
+    {
+      "id": "common-hrcore-personality-002",
+      "type": "personality",
+      "question": "What motivates you the most at work or university?"
+    },
+    {
+      "id": "common-hrcore-personality-003",
+      "type": "personality",
+      "question": "How do you like to receive feedback from your manager?"
+    },
+    {
+      "id": "common-hrcore-scenario-001",
+      "type": "scenario",
+      "question": "If you were given a task you've never done before, how would you approach it?"
+    },
+    {
+      "id": "common-hrcore-scenario-002",
+      "type": "scenario",
+      "question": "How would you handle a misunderstanding between you and a teammate?"
+    },
+    {
+      "id": "common-hrcore-scenario-003",
+      "type": "scenario",
+      "question": "If priorities suddenly change on a project, how would you adapt?"
+    },
+    {
+      "id": "common-hrcore-behavioral-001",
+      "type": "behavioral",
+      "question": "Tell me about a time you faced a conflict at work or university and how you resolved it."
+    },
+    {
+      "id": "common-hrcore-behavioral-002",
+      "type": "behavioral",
+      "question": "Describe a situation where you had to work with a difficult colleague or teammate."
+    },
+    {
+      "id": "common-hrcore-behavioral-003",
+      "type": "behavioral",
+      "question": "Tell me about a time when you had to manage several tasks or deadlines at once."
+    },
+    {
+      "id": "common-hrcore-common-001",
+      "type": "common",
+      "question": "Tell me about yourself."
+    },
+    {
+      "id": "common-hrcore-common-002",
+      "type": "common",
+      "question": "Why are you interested in this role?"
+    },
+    {
+      "id": "common-hrcore-common-003",
+      "type": "common",
+      "question": "Why do you want to join this company?"
+    },
+    {
+      "id": "common-hrcore-common-004",
+      "type": "common",
+      "question": "What are your strengths?"
+    },
+    {
+      "id": "common-hrcore-common-005",
+      "type": "common",
+      "question": "What is one weakness you are actively working on?"
+    },
+    {
+      "id": "common-hrcore-common-006",
+      "type": "common",
+      "question": "Where do you see yourself in a few years?"
+    }
+  ]
+}

@@ -2,99 +2,442 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>🎤 Wzzafak AI Interview</title>
-</head>
-<body>
-  <h2>🎤 Live Interview Chat</h2>
+  <title>Wzzafak AI Live Interview</title>
 
-  <!-- CV Upload -->
-  <div style="margin-bottom:20px;">
-    <h3>📄 Upload Your CV</h3>
-    <input type="file" id="cvFile" accept=".pdf,.doc,.docx,.txt">
-    <input type="number" id="userId" placeholder="Enter your user ID" style="width:180px;">
-    <button onclick="uploadCV()">Upload CV</button>
-    <div id="uploadStatus"></div>
+  <!-- Prevent favicon 404 errors -->
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f3f4f6; color: #111827;
+    }
+    header {
+      padding: 16px 24px;
+      background: #111827; color: white;
+      display: flex; align-items: center;
+      justify-content: space-between;
+    }
+    header h1 { margin: 0; font-size: 20px; }
+    header span { font-size: 13px; opacity: 0.8; }
+
+    .container {
+      display: flex; gap: 16px;
+      padding: 16px; box-sizing: border-box;
+    }
+    .left, .right {
+      background: white; border-radius: 8px;
+      padding: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .left { flex: 2; display: flex; flex-direction: column; gap: 12px; }
+    .right { flex: 1; display: flex; flex-direction: column; gap: 12px; }
+
+    h2, h3 { margin-top: 0; font-size: 16px; }
+
+    #chat {
+      border: 1px solid #e5e7eb; border-radius: 4px;
+      padding: 10px; height: 320px;
+      overflow-y: auto; background: #f9fafb;
+      font-size: 14px;
+    }
+    .msg-ai { margin-bottom: 8px; color: #1f2937; }
+    .msg-user { margin-bottom: 8px; color: #065f46; }
+    .system { margin-bottom: 8px; color: #6b7280; font-size: 12px; }
+
+    #inputRow { display: flex; gap: 6px; margin-top: 8px; }
+    #msg {
+      flex: 1; padding: 8px; border-radius: 4px;
+      border: 1px solid #d1d5db; font-size: 14px;
+    }
+    button {
+      padding: 8px 10px; font-size: 13px;
+      border-radius: 4px; border: none;
+      background: #111827; color: white;
+      cursor: pointer;
+    }
+    button:disabled { opacity: 0.6; cursor: default; }
+
+    #uploadStatus { font-size: 13px; margin-top: 4px; }
+
+    #videoPreview {
+      width: 100%; border-radius: 8px;
+      background: #111827; object-fit: cover;
+      height: 200px;
+    }
+
+    .smallLabel { font-size: 12px; color: #6b7280; }
+    #subtitle { font-size: 13px; color: #374151; min-height: 18px; }
+
+    .meterWrapper {
+      margin-top: 4px; width: 100%; height: 10px;
+      background: #e5e7eb; border-radius: 999px;
+      overflow: hidden;
+    }
+    #meterBar {
+      height: 100%; width: 0%;
+      background: #10b981;
+      transition: width 0.05s linear;
+    }
+
+    .statusRow {
+      display: flex; justify-content: space-between; align-items: center;
+      font-size: 12px; color: #6b7280;
+    }
+    .statusDot {
+      width: 8px; height: 8px; border-radius: 50%;
+      margin-right: 4px; display: inline-block;
+    }
+    .dot-live { background: #22c55e; }
+    .dot-off { background: #9ca3af; }
+
+    @media (max-width: 900px) {
+      .container { flex-direction: column; }
+    }
+  </style>
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>Wzzafak AI – Live Interview</h1>
+    <span>CV-based, professional, voice-enabled mock interview</span>
+  </div>
+  <div class="smallLabel">
+    <span id="connectionLabel">Backend: not connected</span>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- LEFT SIDE -->
+  <div class="left">
+
+    <!-- CV Upload -->
+    <div>
+      <h2>Candidate Setup</h2>
+      <label class="smallLabel">Upload your CV and enter your user ID.</label><br>
+      <input type="file" id="cvFile" accept=".pdf,.doc,.docx,.txt">
+      <input type="number" id="userId" placeholder="User ID" style="width:120px;">
+      <button onclick="uploadCV()">Upload CV</button>
+      <div id="uploadStatus"></div>
+    </div>
+
+    <!-- Chat -->
+    <div>
+      <h2>Interview Room</h2>
+      <div id="chat"></div>
+
+      <div id="inputRow">
+        <input id="msg" placeholder="Type your answer..." />
+        <button onclick="send()">Send</button>
+      </div>
+    </div>
+
   </div>
 
-  <!-- Chat Section -->
-  <div id="chat" style="border:1px solid #ccc;padding:10px;height:300px;overflow:auto;"></div>
-  <input id="msg" placeholder="Type your answer..." style="width:80%">
-  <button onclick="send()">Send</button>
+  <!-- RIGHT SIDE (Camera & Mic) -->
+  <div class="right">
 
-  <script>
-    let socket = null;
-    const chat = document.getElementById("chat");
+    <h3>Camera Preview</h3>
+    <video id="videoPreview" autoplay muted playsinline></video>
+    <div class="smallLabel" style="margin-top:4px;">
+      Your camera stays local. This is how the interviewer will see you later.
+    </div>
 
-    async function uploadCV() {
-      const fileInput = document.getElementById("cvFile");
-      const userId = document.getElementById("userId").value;
-      const statusDiv = document.getElementById("uploadStatus");
+    <h3 style="margin-top:16px;">Microphone & Voice</h3>
 
-      if (!fileInput.files.length) {
-        alert("Please select a CV file first.");
-        return;
+    <div class="statusRow">
+      <div>
+        <span class="statusDot" id="micDot"></span>
+        <span id="micStatus">Mic: off</span>
+      </div>
+      <button id="micToggleBtn" onclick="toggleMic()">Enable Mic</button>
+    </div>
+
+    <div class="smallLabel" style="margin-top:4px;">
+      When enabled, the system listens and sends answers automatically.
+    </div>
+
+    <div class="smallLabel" style="margin-top:10px;">Input volume</div>
+    <div class="meterWrapper"><div id="meterBar"></div></div>
+
+    <div class="smallLabel" style="margin-top:10px;">You said:</div>
+    <div id="subtitle">(waiting for speech)</div>
+
+  </div>
+
+</div>
+
+<script>
+  /* -----------------------------------
+       GLOBAL STATE + FIXES
+  ----------------------------------- */
+  let socket = null;
+  let ttsActive = false;  // <-- FIXED
+  const chat = document.getElementById("chat");
+  const connectionLabel = document.getElementById("connectionLabel");
+
+  // Voice + mic state
+  let recognition = null;
+  let micEnabled = false;
+  let isRecognizing = false;
+  let audioContext = null;
+  let analyser = null;
+
+  /* -----------------------------------
+        TEXT TO SPEECH
+  ----------------------------------- */
+  function speak(text) {
+    if (!window.speechSynthesis) return;
+
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = "en-US";
+
+    utter.onstart = () => {
+      ttsActive = true;
+      if (recognition && isRecognizing) {
+        recognition.stop();
+        isRecognizing = false;
       }
-      if (!userId) {
-        alert("Please enter your user ID.");
-        return;
-      }
+    };
 
-      const formData = new FormData();
-      formData.append("file", fileInput.files[0]);
-      formData.append("user_id", userId);
-
-      statusDiv.innerHTML = "⏳ Uploading and analyzing CV...";
-
-      try {
-        const resp = await fetch("http://localhost:8089/v1/cv/upload", {
-          method: "POST",
-          body: formData,
-        });
-
-        if (!resp.ok) {
-          throw new Error(`HTTP ${resp.status}`);
+    utter.onend = () => {
+      ttsActive = false;
+      setTimeout(() => {
+        if (!ttsActive && micEnabled && !isRecognizing && recognition) {
+          try { recognition.start(); isRecognizing = true; } catch {}
         }
+      }, 1200);
+    };
 
-        const data = await resp.json();
-        console.log(data);
+    window.speechSynthesis.speak(utter);
+  }
 
-        statusDiv.innerHTML = `<span style="color:green;">✅ ${data.message}</span><br><b>Field:</b> ${data.field}<br><b>Analysis:</b> ${data.analysis}`;
-        startInterview(userId);
-      } catch (err) {
-        console.error("Upload error:", err);
-        statusDiv.innerHTML = `<span style="color:red;">❌ Upload failed: ${err.message}</span>`;
+  /* -----------------------------------
+        SPEECH RECOGNITION
+  ----------------------------------- */
+  function setupRecognition() {
+    const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SR) return null;
+
+    const rec = new SR();
+    rec.lang = "en-US";
+    rec.continuous = true;
+    rec.interimResults = false;
+
+    rec.onresult = (event) => {
+      if (ttsActive || speechSynthesis.speaking) return;
+
+      const transcript = event.results[event.results.length - 1][0].transcript.trim();
+      if (!transcript) return;
+
+      document.getElementById("subtitle").innerText = transcript;
+      sendMessage(transcript);
+    };
+
+    rec.onerror = () => { isRecognizing = false; };
+    rec.onend = () => {
+      isRecognizing = false;
+      if (micEnabled) {
+        try { rec.start(); isRecognizing = true; } catch {}
       }
-    }
+    };
 
-    function startInterview(userId) {
-      socket = new WebSocket(`ws://localhost:8089/v1/live-interview?user_id=${userId}`);
-      socket.onopen = () => {
-        chat.innerHTML = "<div>🟢 Connected to Interview AI</div>";
-      };
-      socket.onmessage = (e) => {
-        chat.innerHTML += `<div><b>AI:</b> ${e.data}</div>`;
-        chat.scrollTop = chat.scrollHeight;
-      };
-      socket.onclose = () => {
-        chat.innerHTML += "<div>🔴 Disconnected from Interview AI</div>";
-      };
-      socket.onerror = (err) => {
-        console.error("WebSocket error:", err);
-        chat.innerHTML += "<div style='color:red;'>⚠️ Connection error.</div>";
-      };
-    }
+    return rec;
+  }
 
-    function send() {
-      const msg = document.getElementById("msg").value;
-      if (!socket || socket.readyState !== WebSocket.OPEN) {
-        alert("The interview hasn't started yet.");
-        return;
+  function startRecognition() {
+    if (!recognition) recognition = setupRecognition();
+    if (!recognition) return;
+
+    try { recognition.start(); isRecognizing = true; } catch {}
+  }
+
+  function stopRecognition() {
+    if (recognition && isRecognizing) {
+      recognition.stop();
+      isRecognizing = false;
+    }
+  }
+
+  /* -----------------------------------
+        MEDIA (Camera & Mic Meter)
+  ----------------------------------- */
+  async function startMedia() {
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({
+        audio: { noiseSuppression: true, echoCancellation: true },
+        video: { width: { ideal: 640 }, height: { ideal: 360 } }
+      });
+
+      document.getElementById("videoPreview").srcObject = stream;
+
+      audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      analyser = audioContext.createAnalyser();
+      const micStream = audioContext.createMediaStreamSource(stream);
+      micStream.connect(analyser);
+
+      const meterBar = document.getElementById("meterBar");
+      const data = new Uint8Array(analyser.frequencyBinCount);
+
+      function loop() {
+        analyser.getByteFrequencyData(data);
+        let sum = 0;
+        for (let i = 0; i < data.length; i++) sum += data[i];
+        const avg = sum / data.length;
+        meterBar.style.width = Math.min(100, avg / 255 * 100) + "%";
+        requestAnimationFrame(loop);
       }
-      chat.innerHTML += `<div><b>You:</b> ${msg}</div>`;
-      socket.send(msg);
-      document.getElementById("msg").value = "";
-      chat.scrollTop = chat.scrollHeight;
+      loop();
+    } catch (err) {}
+  }
+
+  /* -----------------------------------
+        MIC TOGGLE
+  ----------------------------------- */
+  function toggleMic() {
+    micEnabled = !micEnabled;
+
+    const micStatus = document.getElementById("micStatus");
+    const micDot = document.getElementById("micDot");
+    const btn = document.getElementById("micToggleBtn");
+
+    if (micEnabled) {
+      micStatus.innerText = "Mic: on (listening)";
+      micDot.className = "statusDot dot-live";
+      btn.innerText = "Disable Mic";
+      startRecognition();
+      if (!audioContext) startMedia();
+    } else {
+      micStatus.innerText = "Mic: off";
+      micDot.className = "statusDot dot-off";
+      btn.innerText = "Enable Mic";
+      stopRecognition();
     }
-  </script>
+  }
+
+  /* -----------------------------------
+        CV UPLOAD (Improved)
+  ----------------------------------- */
+  async function uploadCV() {
+    const file = document.getElementById("cvFile").files[0];
+    const userId = document.getElementById("userId").value;
+    const statusDiv = document.getElementById("uploadStatus");
+
+    if (!file) return alert("Select a CV file first.");
+    if (!userId) return alert("Enter user ID.");
+
+    const form = new FormData();
+    form.append("file", file);
+    form.append("user_id", userId);
+
+    statusDiv.innerHTML = "⏳ Uploading & analyzing...";
+
+    try {
+      const resp = await fetch("http://localhost:8089/v1/cv/upload", {
+        method: "POST",
+        body: form
+      });
+
+      const text = await resp.text();
+
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${text}`);
+
+      const data = JSON.parse(text);
+      statusDiv.innerHTML =
+        `<span style="color:green;">✅ ${data.message}</span><br>` +
+        `<b>Field:</b> ${data.field}<br>` +
+        `<b>Analysis:</b> ${data.analysis}`;
+
+      startInterview(userId);
+
+    } catch (err) {
+      statusDiv.innerHTML =
+        `<span style="color:red;">❌ Upload error: ${err.message}</span>`;
+    }
+  }
+
+  /* -----------------------------------
+        INTERVIEW (WebSocket)
+  ----------------------------------- */
+  function startInterview(userId) {
+    socket = new WebSocket(`ws://localhost:8089/v1/live-interview?user_id=${userId}`);
+
+    socket.onopen = () => {
+      chat.innerHTML = "<div class='system'>🟢 Connected to Interview AI</div>";
+      connectionLabel.innerText = "Backend: connected";
+    };
+
+    socket.onmessage = (e) => {
+    let message;
+
+    try {
+        message = JSON.parse(e.data);  // Try to parse as JSON first
+    } catch (err) {
+        message = e.data;  // If it's not valid JSON, just treat it as plain text
+    }
+
+    if (typeof message === 'object') {
+        // Check if the message contains feedback
+        if (message.feedback) {
+            chat.innerHTML += `<div class="msg-ai"><b>Feedback:</b> ${message.feedback}</div>`;
+        } else if (message.text) {
+            // Regular AI message
+            chat.innerHTML += `<div class="msg-ai"><b>AI:</b> ${message.text}</div>`;
+        }
+    } else {
+        // If the message is just plain text
+        chat.innerHTML += `<div class="msg-ai"><b>AI:</b> ${message}</div>`;
+    }
+
+    chat.scrollTop = chat.scrollHeight;
+    speak(message);  // Speak the message if it's plain text or has a `text` field
+};
+
+
+    socket.onclose = () => {
+      chat.innerHTML += "<div class='system'>🔴 Interview ended</div>";
+      connectionLabel.innerText = "Backend: disconnected";
+    };
+
+    socket.onerror = () => {
+      chat.innerHTML += "<div class='system' style='color:red;'>⚠️ Connection error.</div>";
+      connectionLabel.innerText = "Backend: error";
+    };
+
+    if (!audioContext) startMedia();
+  }
+
+  /* -----------------------------------
+        SEND MESSAGE
+  ----------------------------------- */
+  function sendMessage(text) {
+    if (!socket || socket.readyState !== WebSocket.OPEN) {
+      return alert("Interview not started yet.");
+    }
+    chat.innerHTML += `<div class="msg-user"><b>You:</b> ${text}</div>`;
+    chat.scrollTop = chat.scrollHeight;
+    socket.send(text);
+  }
+
+  function send() {
+    const msg = document.getElementById("msg").value.trim();
+    if (!msg) return;
+    sendMessage(msg);
+    document.getElementById("msg").value = "";
+  }
+
+  document.getElementById("msg").addEventListener("keydown", e => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      send();
+    }
+  });
+
+  document.getElementById("micDot").className = "statusDot dot-off";
+</script>
+
 </body>
 </html>

@@ -1,0 +1,1926 @@
+{
+  "major": "Common",
+  "subcategory": "Experience",
+  "questions": [
+    {
+      "id": "common-experience-001",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-002",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-003",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-004",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-005",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-006",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-007",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-008",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-009",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-010",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-011",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-012",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-013",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-014",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-015",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-018",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-019",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-020",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-021",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-022",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-023",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-024",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-025",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-026",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-027",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-028",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-029",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-030",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-031",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-032",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-033",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-034",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-035",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-036",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-037",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-038",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-039",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-040",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-041",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-042",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-043",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-044",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-045",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-046",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-047",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-048",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-049",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-050",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-051",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-052",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-053",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-054",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-055",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-056",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-057",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-058",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-059",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-060",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-061",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-062",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-063",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-064",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-065",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-066",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-067",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-068",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-069",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-070",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-071",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-072",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-073",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-074",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-075",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-076",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-077",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-078",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-079",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-080",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-081",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-082",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-083",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-084",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-085",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-086",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-087",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-088",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-089",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-090",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-091",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-092",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-093",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-094",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-095",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-096",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-097",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-098",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-099",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-100",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-101",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-102",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-103",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-104",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-105",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-106",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-107",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-108",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-109",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-110",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-111",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-112",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-113",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-experience-114",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-115",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-experience-116",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-117",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-experience-118",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "common-experience-119",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "common-experience-120",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "experience",
+        "career",
+        "projects"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    }
+  ]
+}

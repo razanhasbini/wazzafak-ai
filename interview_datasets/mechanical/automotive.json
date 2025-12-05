@@ -1,0 +1,1926 @@
+{
+  "major": "Mechanical",
+  "subcategory": "Automotive",
+  "questions": [
+    {
+      "id": "mechanical-automotive-001",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-002",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-004",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-005",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-006",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-008",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-009",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-010",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-011",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-012",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-013",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-014",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-015",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-017",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-018",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-019",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-021",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-022",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-023",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-024",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-025",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-026",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-028",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-029",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-030",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-031",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-033",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-034",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-035",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-036",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-037",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-038",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-039",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-040",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you describe the main factors that influence vehicle safety design?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-042",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you approach diagnosing a mechanical issue in an automotive system?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-043",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-044",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you approach diagnosing a mechanical issue in an automotive system?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-045",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-046",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-047",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-048",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-049",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-050",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-051",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-052",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-053",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-054",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-055",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-056",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-057",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-058",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-059",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-060",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-061",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-062",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-063",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-064",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-065",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-066",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-067",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-068",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-069",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-070",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-071",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-072",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-073",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-074",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-075",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you describe the main factors that influence vehicle safety design?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-076",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-077",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-078",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-079",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-080",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-081",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-082",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-083",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-084",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-085",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-086",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-087",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-088",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-089",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-090",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-091",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-092",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-093",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-094",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-095",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-096",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-097",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-098",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-099",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-100",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-101",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-102",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-103",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-104",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-105",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-106",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-107",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-108",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How do you approach diagnosing a mechanical issue in an automotive system?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-109",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-110",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-111",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-112",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-113",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-114",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-115",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-116",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-117",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-118",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-119",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "mechanical-automotive-120",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "mechanical",
+        "automotive",
+        "engineering"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2046 @@
+{
+  "major": "Business",
+  "subcategory": "Management",
+  "questions": [
+    {
+      "id": "business-management-001",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-002",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-003",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-004",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-005",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-006",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-008",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-009",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-010",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-011",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-012",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-013",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-015",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-016",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-018",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-019",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-021",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-022",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-023",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-024",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-025",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-026",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-029",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-030",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-031",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-033",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-034",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-035",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-036",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-037",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-038",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-039",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-040",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you prioritize projects when resources are limited?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-042",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you structure a simple plan for a new initiative?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-043",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-044",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-045",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you structure a simple plan for a new initiative?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-046",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-047",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-048",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-049",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-050",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-051",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-052",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-053",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-054",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-055",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-056",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-057",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you prioritize projects when resources are limited?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-058",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-059",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-060",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-061",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-062",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-063",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-064",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-065",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-066",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-067",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-068",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-069",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-070",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-071",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-072",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-073",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-074",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-075",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-076",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-077",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-078",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-079",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-080",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-081",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-082",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-083",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-084",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-085",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-086",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-087",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-088",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you structure a simple plan for a new initiative?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-089",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-090",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-091",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-092",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you prioritize projects when resources are limited?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-093",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-094",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-095",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-management-096",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-097",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-098",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-099",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-100",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-101",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-102",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-management-103",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-104",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-105",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-106",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-107",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-management-108",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-109",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-management-110",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-111",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-management-112",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-113",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-114",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-management-115",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-116",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-management-117",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-management-118",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-management-119",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-management-120",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "management",
+        "leadership",
+        "planning"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    }
+  ]
+}

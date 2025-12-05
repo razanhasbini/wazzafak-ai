@@ -1,0 +1,2046 @@
+{
+  "major": "Business",
+  "subcategory": "HR",
+  "questions": [
+    {
+      "id": "business-hr-001",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-002",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-004",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-005",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-006",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-008",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-009",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-010",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-011",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-012",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-013",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-014",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-015",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-016",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-018",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-019",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-021",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-022",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-023",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-024",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-025",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-026",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-029",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-030",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-031",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-032",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-033",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-034",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-035",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-036",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-037",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-038",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-039",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-040",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How would you design a simple interview process for a new role?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-042",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you evaluate whether a candidate is a good fit beyond their technical skills?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-043",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-044",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-045",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-046",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-047",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-048",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-049",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-050",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-051",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-052",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-053",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-054",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-055",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-056",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How would you design a simple interview process for a new role?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-057",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-058",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-059",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-060",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-061",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-062",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-063",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-064",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-065",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-066",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-067",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-068",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-069",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-070",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-071",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-072",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-073",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-074",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-hr-075",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-076",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-077",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-078",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you evaluate whether a candidate is a good fit beyond their technical skills?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-079",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-080",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-081",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-082",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-083",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-084",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-085",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-086",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-087",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-088",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-089",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-090",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-091",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-092",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-093",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-094",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-095",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-hr-096",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-097",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-098",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-099",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-100",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-101",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How would you design a simple interview process for a new role?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-102",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-hr-103",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-104",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-105",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-106",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-107",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-108",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you evaluate whether a candidate is a good fit beyond their technical skills?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-hr-109",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-110",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-111",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-hr-112",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-113",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-114",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-hr-115",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-hr-116",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-hr-117",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-hr-118",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-119",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-hr-120",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "hr",
+        "recruitment",
+        "conflict-resolution"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    }
+  ]
+}

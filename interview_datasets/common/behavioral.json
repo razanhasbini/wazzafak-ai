@@ -1,0 +1,1806 @@
+{
+  "major": "Common",
+  "subcategory": "Behavioral",
+  "questions": [
+    {
+      "id": "common-behavioral-001",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-002",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-003",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-004",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-005",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-006",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-007",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-008",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-009",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-010",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-011",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-012",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-013",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-014",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-015",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-016",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-017",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-018",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-019",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-020",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-021",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-022",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-023",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-024",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-025",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-026",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-027",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-028",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-029",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-030",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-031",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-032",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-033",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-034",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-035",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-036",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-037",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-038",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-039",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-040",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-041",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-042",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-043",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-044",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-045",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-046",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-047",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-048",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-049",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-050",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-051",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-052",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-053",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-054",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-055",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-056",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-057",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-058",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-059",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-060",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-061",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-062",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-063",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-064",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-065",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-066",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-067",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-068",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-069",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-070",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-071",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-072",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-073",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-074",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-075",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-076",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-077",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-078",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-079",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-080",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-081",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-082",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-083",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-084",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-085",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-086",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-087",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-088",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-089",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-090",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-091",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-092",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-093",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-094",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-095",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-096",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-097",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-098",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-099",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-100",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-101",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-102",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-103",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "common-behavioral-104",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-105",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-106",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-107",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-108",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-109",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-110",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-111",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-112",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-113",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-114",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-115",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "common-behavioral-116",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "common-behavioral-117",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "common-behavioral-118",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "common-behavioral-119",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "common-behavioral-120",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "behavioral",
+        "past-experience"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    }
+  ]
+}

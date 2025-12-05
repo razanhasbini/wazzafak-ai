@@ -1,0 +1,2046 @@
+{
+  "major": "Design",
+  "subcategory": "UI/UX",
+  "questions": [
+    {
+      "id": "design-uiux-001",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-002",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-003",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-004",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-005",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-006",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-007",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-008",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-009",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-010",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-011",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-012",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "design-uiux-013",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-015",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-017",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-018",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-019",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-021",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-022",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-023",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-024",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-025",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-026",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-028",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-029",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-030",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-031",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-033",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-034",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-035",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-036",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-037",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-038",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-039",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-040",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-041",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you approach creating wireframes that communicate user flows clearly?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-042",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What steps do you follow when turning user research insights into design decisions?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-043",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you test whether a UI design is intuitive for users?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-044",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-045",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-046",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-047",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-048",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-049",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-050",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-051",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-052",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What steps do you follow when turning user research insights into design decisions?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-053",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-054",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-055",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-056",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-057",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-058",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-059",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you approach creating wireframes that communicate user flows clearly?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-060",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-061",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-062",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-063",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-064",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-065",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-066",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-067",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "design-uiux-068",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-069",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-070",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-071",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-072",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-073",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-074",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-075",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-076",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-077",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-078",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-079",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-080",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-081",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-082",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-083",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-084",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-085",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you test whether a UI design is intuitive for users?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-086",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-087",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you approach creating wireframes that communicate user flows clearly?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-088",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-089",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-090",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-091",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-092",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "design-uiux-093",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-094",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-095",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-096",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-097",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-098",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-099",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-100",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-101",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-102",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-103",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-104",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-105",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "design-uiux-106",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-107",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-108",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-109",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-110",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-111",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "design-uiux-112",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "design-uiux-113",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "design-uiux-114",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-115",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "How do you test whether a UI design is intuitive for users?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "design-uiux-116",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "design-uiux-117",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "design-uiux-118",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "design-uiux-119",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What steps do you follow when turning user research insights into design decisions?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "design-uiux-120",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "design",
+        "ui",
+        "ux",
+        "user-experience"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    }
+  ]
+}

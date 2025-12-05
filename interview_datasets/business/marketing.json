@@ -1,0 +1,1926 @@
+{
+  "major": "Business",
+  "subcategory": "Marketing",
+  "questions": [
+    {
+      "id": "business-marketing-001",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-marketing-002",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-003",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-004",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-005",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-006",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-007",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-008",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-marketing-009",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-010",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-011",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-012",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-013",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-014",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-015",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-016",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-017",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-018",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-019",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-020",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-021",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-022",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-023",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-024",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-025",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-026",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-027",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-029",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-030",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-031",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-032",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-033",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-034",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-035",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-036",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-037",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-038",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-039",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-040",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-041",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you define target segments for a new product?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-042",
+      "type": "technical",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How would you measure the impact of a brand campaign?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-043",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-044",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-marketing-045",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-046",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-047",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-048",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-049",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you disagreed with a teammate or manager. How did you handle it?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-050",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-051",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-052",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-053",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-054",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-055",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-056",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-057",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-058",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-059",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-060",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-061",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-062",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-063",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Suppose your manager gives you two urgent tasks with conflicting deadlines. How do you prioritize and communicate?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-064",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-065",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-066",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-067",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-marketing-068",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-069",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-070",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-071",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-072",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-073",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How would you measure the impact of a brand campaign?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-074",
+      "type": "technical",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you define target segments for a new product?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-075",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-076",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-077",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-078",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-079",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-080",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-081",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-082",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If a teammate consistently delivers low-quality work that affects the team, how would you handle it?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-083",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-084",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-085",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "If two stakeholders have conflicting priorities, how do you decide what to do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-086",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to explain a complex topic to someone less familiar with it.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-087",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What is the most challenging project you have worked on so far?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-088",
+      "type": "scenario",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "A client is unhappy with the first version of your work. How would you respond and move forward?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-089",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-090",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-091",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-092",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "You notice an important metric is trending in the wrong direction. How would you investigate and respond?",
+      "follow_up_examples": [
+        "How would you communicate this to your team or manager?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-093",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-094",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-095",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time when you had to balance different responsibilities, such as work and university.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-096",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "If you realize you will likely miss a deadline, what would you do?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-097",
+      "type": "scenario",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "You are asked to present your work to a senior audience with little context. How would you prepare?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you communicate this to your team or manager?"
+      ]
+    },
+    {
+      "id": "business-marketing-098",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about an experience that taught you something important about how you like to work.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-099",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to quickly learn a new skill or tool.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-100",
+      "type": "behavioral",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the initiative to start or improve something.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-101",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-102",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you received critical feedback. How did you respond and what did you change afterwards?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-103",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How would you approach a completely new task that you’ve never done before?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-104",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to manage multiple priorities at once.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-105",
+      "type": "technical",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "How do you define target segments for a new product?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-106",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "business-marketing-107",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time you faced a conflict in a team project. How did you help resolve it?",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What did you learn from that experience?"
+      ]
+    },
+    {
+      "id": "business-marketing-108",
+      "type": "behavioral",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Tell me about a time you had to adapt your communication style for a different audience.",
+      "follow_up_examples": [
+        "What would you do differently next time?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-109",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a situation where you took the lead on a project or task.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-110",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to quickly ramp up on a new topic or tool for a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-111",
+      "type": "experience",
+      "difficulty": "medium",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Talk about a situation where you had to collaborate with people from different backgrounds or disciplines.",
+      "follow_up_examples": [
+        "What impact did this have on the project or team?",
+        "What would you improve if you had to do it again?"
+      ]
+    },
+    {
+      "id": "business-marketing-112",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Can you walk me through your career or academic journey and the key milestones that shaped you?",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-113",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Imagine you are added to a project that is already behind schedule. What would your first steps be?",
+      "follow_up_examples": [
+        "How would you measure whether your approach worked?",
+        "What risks would you watch out for?"
+      ]
+    },
+    {
+      "id": "business-marketing-114",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Give me an example of a situation where you had to work with someone very different from you.",
+      "follow_up_examples": [
+        "What was the most difficult part for you personally?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-115",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "business-marketing-116",
+      "type": "scenario",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "If you joined a new team with unclear expectations, how would you clarify your responsibilities?",
+      "follow_up_examples": [
+        "What risks would you watch out for?",
+        "How would you measure whether your approach worked?"
+      ]
+    },
+    {
+      "id": "business-marketing-117",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": false,
+      "question": "Describe a time when you made a mistake at work or university. How did you handle it and what did you learn?",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What would you do differently next time?"
+      ]
+    },
+    {
+      "id": "business-marketing-118",
+      "type": "behavioral",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a time you had to work under significant pressure or tight deadlines.",
+      "follow_up_examples": [
+        "What did you learn from that experience?",
+        "What was the most difficult part for you personally?"
+      ]
+    },
+    {
+      "id": "business-marketing-119",
+      "type": "experience",
+      "difficulty": "hard",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Describe a time when you had to handle unexpected changes in a project.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    },
+    {
+      "id": "business-marketing-120",
+      "type": "experience",
+      "difficulty": "easy",
+      "tags": [
+        "business",
+        "marketing",
+        "stakeholders"
+      ],
+      "cv_context": true,
+      "question": "Tell me about a project you are particularly proud of and why.",
+      "follow_up_examples": [
+        "What would you improve if you had to do it again?",
+        "What impact did this have on the project or team?"
+      ]
+    }
+  ]
+}

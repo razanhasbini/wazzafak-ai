@@ -1,0 +1,1926 @@
+{
+  "major": "Common",
+  "subcategory": "Personality",
+  "questions": [
+    {
+      "id": "common-personality-001",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-002",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-003",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-004",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-005",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-006",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-007",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-008",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-009",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-010",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-011",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-012",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-013",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-014",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-015",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-016",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-017",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-018",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-019",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-020",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-021",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-022",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-023",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-024",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-025",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-026",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-027",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-028",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-029",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-030",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-031",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-032",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-033",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-034",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-035",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-036",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-037",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-038",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-039",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-040",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-041",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-042",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-043",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-044",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-045",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-046",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-047",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-048",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-049",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-050",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-051",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-052",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-053",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-054",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-055",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-056",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-057",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-058",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-059",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-060",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-061",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-062",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-063",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-064",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-065",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-066",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-067",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-068",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-069",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-070",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-071",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-072",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-073",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-074",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-075",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-076",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-077",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-078",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-079",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-080",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-081",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-082",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-083",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-084",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-085",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-086",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-087",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-088",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-089",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-090",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-091",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-092",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-093",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-094",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-095",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-096",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-097",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-098",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-099",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-100",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-101",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-102",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-103",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-104",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-105",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-106",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-107",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-108",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-109",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-110",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-111",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you usually react when something doesn’t go according to plan?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-112",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How do you prefer to receive feedback from managers or peers?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-113",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What helps you stay focused and productive when you have a lot to do?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-114",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What role do you naturally take in group projects or team settings?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-115",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What is something you are currently trying to improve about yourself?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-116",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What motivates you the most when you are working on a difficult or long project?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-117",
+      "type": "personality",
+      "difficulty": "easy",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "How would you describe yourself in three words, and why those?",
+      "follow_up_examples": [
+        "How has this helped you in your recent work or studies?",
+        "Can you give me a concrete example that shows this?"
+      ]
+    },
+    {
+      "id": "common-personality-118",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "How do you like to organize your work or study time?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-119",
+      "type": "personality",
+      "difficulty": "medium",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": true,
+      "question": "What types of tasks or responsibilities energize you the most?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    },
+    {
+      "id": "common-personality-120",
+      "type": "personality",
+      "difficulty": "hard",
+      "tags": [
+        "personality",
+        "motivation",
+        "style"
+      ],
+      "cv_context": false,
+      "question": "What kind of work environment helps you do your best work, and why?",
+      "follow_up_examples": [
+        "Can you give me a concrete example that shows this?",
+        "How has this helped you in your recent work or studies?"
+      ]
+    }
+  ]
+}
